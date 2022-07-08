@@ -18,7 +18,7 @@ https://emojipedia.org/search/?q=bag
 https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 https://dev.to/envoy_/150-badges-for-github-pnk
 -->
-- 🔭 Atualmente focada em trabalhar com Desenvolvimento Front End
+- 🔭 Atualmente focada em trabalhar com Desenvolvimento Fullstack
 - 🌱 Aprendendo Node.js e React
 - 😄 Pronomes: ela/dela
 <div align="center">
